@@ -1,12 +1,12 @@
 package com.example.lib
-hjklñlkjhguijkmnmjhkuk
+
 fun main(){
-jhl jlk ljk lhjk//    //ctrl k ctrl c
+//    //ctrl k ctrl c
 //    //ctrl k ctrl u
 //    // Variables INMUTABLES (incambiables)
 //    val name : String = "Jonathan"  //un ejemplo es el nombre ya que no cambia
 //
-/ghjkuihjnkiuyghbn/    // variables MUTABLES (cambiables)
+//    // variables MUTABLES (cambiables)
 //    var age : Int = 20          // un ejemplo es la edad que si cambia
 //    var age1 : Int? = null      // para que no tenga un valor inicial
 //
@@ -70,6 +70,5 @@ proporcione la base y la altura y sse muestre en pantalla el resultado
     println("el area es: $area")
 }
 
-// creando funcionalidad 1
+//creando funcionalidad 1
 // creando funcionalidad 2
-// creando funcionalidad 3
