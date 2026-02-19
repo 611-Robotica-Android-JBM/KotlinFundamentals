@@ -69,3 +69,5 @@ proporcione la base y la altura y sse muestre en pantalla el resultado
     val area = base * height
     println("el area es: $area")
 }
+
+//creando funcionalidad 1
