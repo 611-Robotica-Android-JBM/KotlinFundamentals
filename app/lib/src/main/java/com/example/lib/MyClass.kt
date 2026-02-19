@@ -1,6 +1,7 @@
 package com.example.lib
 
 fun main(){
+    // cositas para revertir
 //    //ctrl k ctrl c
 //    //ctrl k ctrl u
 //    // Variables INMUTABLES (incambiables)
