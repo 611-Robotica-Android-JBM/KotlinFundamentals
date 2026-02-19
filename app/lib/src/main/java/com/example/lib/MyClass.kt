@@ -13,7 +13,7 @@ fun main(){
 //    // tipos de Datos Int, Strng, Double, Float, Cha, Array, Boolean
 //    val isOld : Boolean = false
 //    val height : Double = 1.75
-//
+//     commit 1
 //    //string interpolation
 //    println("Mi nombre es: $name, tengo $age y mido $height")
 //    println(name + " " + age + " " + height)
