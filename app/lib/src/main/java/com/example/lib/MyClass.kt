@@ -71,3 +71,4 @@ proporcione la base y la altura y sse muestre en pantalla el resultado
 }
 
 //creando funcionalidad 1
+// creando funcionalidad 2
