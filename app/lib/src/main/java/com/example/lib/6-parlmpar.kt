@@ -14,16 +14,16 @@ fun main() {
 
     val pares = mutableListOf<Int>()
     val impares = mutableListOf<Int>()
-    val verificacion = null
-    // TODO: Recorre la lista y agrega cada numero a pares o impares segun corresponda
+
+    // Recorre la lista y separa pares e impares
     for (num in numeros) {
-        // Usa num % 2 para determinar si es par o impar
-        // Usa .add() para agregar a la lista correspondiente
-        verificacion = num % 2
-        if(num == 0){
-        pares.add(num)}
-        impares.add(num)
+        if (num % 2 == 0) {
+            pares.add(num)
+        } else {
+            impares.add(num)
+        }
     }
+
 
     println("Pares: $pares")
     println("Impares: $impares")
