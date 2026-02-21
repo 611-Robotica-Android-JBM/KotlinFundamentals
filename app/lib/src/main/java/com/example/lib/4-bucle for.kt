@@ -11,6 +11,7 @@ package com.example.lib
 // ...
 // 7 x 10 = 70
 
+
 fun main() {
     val numero = 7
     // TODO: Usa un for con el rango 1..10 e imprime cada linea
