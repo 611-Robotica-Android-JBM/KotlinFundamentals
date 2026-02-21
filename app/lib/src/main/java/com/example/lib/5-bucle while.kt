@@ -27,6 +27,7 @@ fun main() {
             numero /= 10
         }
 
+
         println("Suma de digitos de $n: $suma")
     }
 }
